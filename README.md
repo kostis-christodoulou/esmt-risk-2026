@@ -5,7 +5,7 @@
 ### Session 2
 | Notebook | Link |
 |----------|------|
-| Egreess Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/02_egreess_ski_jacket.ipynb) |
+| Egreess Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main02_egress_ski_jacket.ipynb) |
 
 <!-- ### Session 4
 | Notebook | Link |
