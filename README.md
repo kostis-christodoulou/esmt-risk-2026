@@ -5,12 +5,12 @@
 ### Session 2
 | Notebook | Link |
 |----------|------|
-| Egreess Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_egreess_ski_jacket.ipynb) |
+| Egreess Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/02_egreess_ski_jacket.ipynb) |
 
 <!-- ### Session 4
 | Notebook | Link |
 |----------|------|
-| Student Scores Plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session03-lecture03/04_student_scores_plots.ipynb) |
+| Student Scores Plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/man/session03-lecture03/04_student_scores_plots.ipynb) |
 | UK Polls Scraping & Tidy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session03-lecture03/uk_polls_scraping%2Btidy.ipynb) |
 | HW2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session03-lecture03/HW2.ipynb) |
 
