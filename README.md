@@ -5,7 +5,9 @@
 ### Session 2
 | Notebook | Link |
 |----------|------|
-| Egreess Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_egress_ski_jacket.ipynb) |
+| Egress Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_egress_ski_jacket.ipynb) |
+| Entson Cash Balance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_entson_cash_balance.ipynb) |
+| MC Portfolio | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_monte_carlo_portfolio.ipynb) |
 
 <!-- ### Session 4
 | Notebook | Link |
