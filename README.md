@@ -5,9 +5,10 @@
 ### Session 2
 | Notebook | Link |
 |----------|------|
-| Egress Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_egress_ski_jacket.ipynb) |
-| Entson Cash Balance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_entson_cash_balance.ipynb) |
-| MC Portfolio | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_monte_carlo_portfolio.ipynb) |
+| 02_01 College Investment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_01_college_investment.ipynb) |
+| 02_02 Egress Ski Jacket | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_02_egress_ski_jacket.ipynb) |
+| 02_03 Entson Cash Balance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_03_entson_cash_balance.ipynb) |
+| 02_04 Risk Return Stocks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_04_risk_return_stocks.ipynb) |
 
 <!-- ### Session 4
 | Notebook | Link |
