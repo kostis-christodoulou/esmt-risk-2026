@@ -10,21 +10,22 @@
 | 02_03 Entson Cash Balance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_03_entson_cash_balance.ipynb) |
 | 02_04 Risk Return Stocks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_04_risk_return_stocks.ipynb) |
 
-<!-- ### Session 4
+### Session 4
 | Notebook | Link |
 |----------|------|
-| Student Scores Plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/man/session03-lecture03/04_student_scores_plots.ipynb) |
-| UK Polls Scraping & Tidy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session03-lecture03/uk_polls_scraping%2Btidy.ipynb) |
-| HW2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session03-lecture03/HW2.ipynb) |
+| 04_01 Advanced Techniques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/04_01_advanced_techniques.ipynb) |
+| 04_02 Market Risk | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/04_02_stocks_market_risk.ipynb) |
 
 
-### Session 5
+
+
+<!-- ### Session 5
 | Notebook | Link |
 |----------|------|
 | northwind SQL | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session05-lecture05/01_northwind_SQL.ipynb) |
 | duckdb arrow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session05-lecture05/02_duckdb_arrow.ipynb) |
 | nyc taxi duckdb maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session05-lecture05/03_nyc_taxi_duckdb_maps.ipynb) |
-| HW3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session05-lecture05/hw3-sql.ipynb) | -->
+| HW3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/session05-lecture05/hw3-sql.ipynb) | --> -->
 
 
 ## Data
