@@ -10,11 +10,16 @@
 | 02_03 Entson Cash Balance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_03_entson_cash_balance.ipynb) |
 | 02_04 Risk Return Stocks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/02_04_risk_return_stocks.ipynb) |
 
-### Session 4
+### Session 3
 | Notebook | Link |
 |----------|------|
-| 04_01 Advanced Techniques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/04_01_advanced_techniques.ipynb) |
-| 04_02 Market Risk | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/04_02_stocks_market_risk.ipynb) |
+| 03_01 Newsvendor | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/03_01_newsvendor.ipynb) |
+
+### Session 5
+| Notebook | Link |
+|----------|------|
+| 05_01 Advanced Techniques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/05_01_advanced_techniques.ipynb) |
+| 05_02 Quant Risk Management| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/esmt-risk-2026/blob/main/05_02_quant_risk_management.ipynb) |
 
 
 
